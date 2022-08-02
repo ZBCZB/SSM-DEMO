@@ -1,3 +1,3 @@
 # SSM-DEMO
 
-自用的ssmdemo框架
+ssm框架的demo
